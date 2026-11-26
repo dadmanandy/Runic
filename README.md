@@ -1,4 +1,4 @@
-# [The Tunic Translator Tool](https://aryanpingle.github.io/Runic/)
+# [The Tunic Translator Tool]()
 
 <p align="center">
     <img src="./public/images/banner.jpg" alt="Banner image showing off Runic">
